@@ -1,4 +1,4 @@
-# CLAUDE.md — Ágora Global
+﻿# CLAUDE.md — Ágora Global
 
 Repositório: `CabPiz/agora-global` | Owner: `CabPiz` | Project Board: a definir
 **Stack:** Next.js 15 · TypeScript · Tailwind CSS · Supabase · Blockchain
@@ -44,4 +44,18 @@ O arquivo `business_plan.md` está no `.gitignore`.
 
 ---
 
-@C:/Users/Cesar/Documents/Desenvolvimento/projeto_concentrador/concentrador/CLAUDE.md
+## 📖 Protocolo Universal
+
+Na abertura de toda sessão (`issue #[número]`), ler na FASE 0:
+```
+C:/Users/Cesar/Documents/Desenvolvimento/projeto_concentrador/concentrador/CLAUDE.md
+C:/Users/Cesar/Documents/Desenvolvimento/projeto_concentrador/concentrador/_protocol/FASES.md
+C:/Users/Cesar/Documents/Desenvolvimento/projeto_concentrador/concentrador/_knowledge/BUILD_ERRORS.md
+C:/Users/Cesar/Documents/Desenvolvimento/projeto_concentrador/concentrador/_knowledge/COVERAGE_GAPS.md
+C:/Users/Cesar/Documents/Desenvolvimento/projeto_concentrador/concentrador/_knowledge/FEEDBACK_UNIVERSAL.md
+```
+
+Arquivos adicionais lidos sob demanda (ver tabela em `CLAUDE.md` do concentrador):
+- `_protocol/SONAR.md` — antes da FASE 2
+- `_protocol/DIARIO.md` — no encerramento
+- `_protocol/MILESTONE.md` — ao fechar milestone
