@@ -94,6 +94,21 @@ Release notes are published as GitHub Releases and include a migration guide for
 
 ---
 
+## Trademark Policy
+
+The name **"Ágora Global"** is a registered trademark owned by the project founder (Cesar Brito / CabPiz). The AGPL-3.0 license governs the code; trademark law governs the name. Both layers are intentional and complementary — as in the Red Hat model.
+
+**What this means for national forks:**
+- Forks must use the pattern **"Ágora [Country]"** (e.g., "Ágora Colombia", "Ágora Kenya") — not "Ágora Global".
+- Each national community is responsible for registering their own "Ágora [Country]" trademark in their own jurisdiction. The upstream maintainer does not register foreign fork names.
+- Using "Ágora Global" as the name of a commercial or national implementation without explicit written approval from the maintainer is not permitted.
+
+**What this does not restrict:**
+- Forking, modifying, and deploying the software under AGPL-3.0 — this is always permitted.
+- Referring to the upstream project by name in documentation, articles, or presentations.
+
+---
+
 ## Code of Conduct
 
 Contributors are expected to act with the same civic responsibility the project promotes. Discussions must remain constructive and focused on the public good. Harassment, bad faith, or coordinated attempts to discredit audit findings through the contribution process will result in immediate removal.
