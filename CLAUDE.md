@@ -1,7 +1,7 @@
-﻿# CLAUDE.md — Ágora Global
+# CLAUDE.md — Ágora Global
 
-Repositório: `CabPiz/agora-global` | Owner: `CabPiz` | Project Board: a definir
-**Stack:** Next.js 15 · TypeScript · Tailwind CSS · Supabase · Blockchain
+Repositório: `CabPiz/agora-global` | Owner: `CabPiz` | Project Board: nº **7**
+**Stack:** Next.js 15 · TypeScript · Python 3.11 · scikit-learn · pandas · Tailwind CSS · Supabase · Inngest · Playwright · next-intl · Docker · Fly.io
 
 ---
 
@@ -9,18 +9,18 @@ Repositório: `CabPiz/agora-global` | Owner: `CabPiz` | Project Board: a definir
 
 | Campo | Valor |
 |---|---|
-| `[BOARD_NUMBER]` | *(a definir ao criar o board no GitHub)* |
+| `[BOARD_NUMBER]` | `7` |
 | `[MILESTONES_API]` | `repos/CabPiz/agora-global/milestones` |
 | `[DIARIO_PREFIX]` | `diario(agora-global)` |
 | `[PROJETO]` | `agora-global` |
 | Campo obrigatório no diário | `* **Projeto:** \`Ágora Global\`` |
 
 ### Milestones — Issues Finais
-*(ainda não definidas)*
+*(verificar ao iniciar cada milestone)*
 
 ### Board
 ```bash
-gh project item-add [BOARD_NUMBER] --owner CabPiz --url [url]
+gh project item-add 7 --owner CabPiz --url [url]
 gh api repos/CabPiz/agora-global/milestones --jq '.[].title'
 ```
 
@@ -44,18 +44,4 @@ O arquivo `business_plan.md` está no `.gitignore`.
 
 ---
 
-## 📖 Protocolo Universal
-
-Na abertura de toda sessão (`issue #[número]`), ler na FASE 0:
-```
-C:/Users/Cesar/Documents/Desenvolvimento/projeto_concentrador/concentrador/CLAUDE.md
-C:/Users/Cesar/Documents/Desenvolvimento/projeto_concentrador/concentrador/_protocol/FASES.md
-C:/Users/Cesar/Documents/Desenvolvimento/projeto_concentrador/concentrador/_knowledge/BUILD_ERRORS.md
-C:/Users/Cesar/Documents/Desenvolvimento/projeto_concentrador/concentrador/_knowledge/COVERAGE_GAPS.md
-C:/Users/Cesar/Documents/Desenvolvimento/projeto_concentrador/concentrador/_knowledge/FEEDBACK_UNIVERSAL.md
-```
-
-Arquivos adicionais lidos sob demanda (ver tabela em `CLAUDE.md` do concentrador):
-- `_protocol/SONAR.md` — antes da FASE 2
-- `_protocol/DIARIO.md` — no encerramento
-- `_protocol/MILESTONE.md` — ao fechar milestone
+@C:/Users/Cesar/Documents/Desenvolvimento/projeto_concentrador/concentrador/CLAUDE.md
